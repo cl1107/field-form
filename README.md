@@ -1,6 +1,6 @@
 # Field-Form
 
-Get better understanding about how ant-desigon form works.
+Get better understanding about how ant-design form works.
 
 ## Install
 
